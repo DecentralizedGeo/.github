@@ -1,10 +1,8 @@
 <div align="center">
 <a href="https://decentralizedgeo.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/199006257?s=150&v=4" /></a>
   <h1>Decentralized Geospatial</h1>
-  <p>A collection of resources for the Decentralized Geospatial ecosystem.</p>
+  <p>A collection of resources for the Decentralized Geospatial web</p>
 </div>
-
-> **All participating developers are highly encouraged to shape and evolve this space!**
 
 ## 👋 Welcome
 
