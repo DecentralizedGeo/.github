@@ -16,8 +16,8 @@ Don't know where to start? Check out the following resources:
 
 ## 📖 Table of contents
 
-- [🚢 How to contribute](https://decentralizedgeo.github.io/DecentralizedGeo-hub/contribute/contributing-guidelines/)
-- [💅 Development guidelines](https://decentralizedgeo.github.io/DecentralizedGeo-hub/style-guidelines/)
+- 🚢 [How to contribute](https://decentralizedgeo.github.io/DecentralizedGeo-hub/contribute/contributing-guidelines/)
+- 💅 [Development guidelines](https://decentralizedgeo.github.io/DecentralizedGeo-hub/style-guidelines/)
 - 🔬 <a href="https://osf.io/preprints/osf/bg2uq_v1" target="_blank">Research & Context</a>
 - 🔀 Flow Diagrams & User journeys
 - 🚀 UI Guidelines, Files and Mockups
