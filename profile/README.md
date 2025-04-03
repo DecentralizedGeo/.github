@@ -1,14 +1,14 @@
 <div align="center">
 <a href="https://decentralizedgeo.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/199006257?s=150&v=4" /></a>
-  <h1>Decentralized Geospatial</h1>
-  <p>A collection of resources for the Decentralized Geospatial web</p>
+  <h1>The Decentralized Geospatial Collaborative</h1>
+  <p>Building the decentralized geospatial web and location-based services</p>
 </div>
 
 ## 👋 Welcome
 
-We focus on research, development, and technical community building.
+We focus on research, development, and community building.
 
-Our goal is to expand what's possible with digital geospatial technologies by conducting research, developing open source software, and engaging with the technical community. We seek to complement the existing state of the art in GIScience and location-based services, and we are actively researching how to build more secure location-based services for AI safety use cases.
+Our goal is to expand what's possible on with geospatial information on the web. We seek to complement the existing state of the art in GIScience,  geospatial technology, and location-based services, and we are actively researching how to build more decentralized geospatial web to improve security, privacy, transparency, trust, and more.
 
 Learn more about what we have been up to at the <a href="https://decentralizedgeo.github.io/DecentralizedGeo-hub/" target="_blank">Decentralized Geospatial Hub</a>.
 
